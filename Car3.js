@@ -6,7 +6,9 @@ function Car3() {
       <button>SECOND</button>
       <button>THIRD</button>
     </>
+  
   );
 }
 
 export default Car3;
+
