@@ -6,6 +6,7 @@
 
 // // connectTOMongoDB("mongodb://localhost:27017/short-url")
 // // app.use(express.json())
+
 // // .then(()=>console.log("Mongodb connected"))
 // // app.use("/url",urlRoute)
 
@@ -175,4 +176,5 @@ app.listen(port, () => console.log(`🚀 Server started at port ${port}`));
 // ekdum arrows ke sath “Request → Route → Controller → Model → DB → Response”?
 // Dekhne se aur clear ho jayega flow.
 // Banau kya bhai?
+
 
