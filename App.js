@@ -6,7 +6,8 @@ function App() {
   return (
     <div>
       <Car3 />
-      <hr />
+    
+    <hr />
       <Car31 />
     </div>
   );
